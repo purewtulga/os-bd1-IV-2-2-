@@ -67,7 +67,7 @@ UI нь зөвхөн Python 3 стандарт сан, браузер ашигл
 | `src/ui/` | Task hierarchy дүрслэлтэй interactive UI | B190910014 |
 | `tests/basic/` | Номын жишээ болон үндсэн тестүүд | B231910003 |
 | `tests/boundary/` | Захын болон буруу оролтын тестүүд | B231910003 |
-| `docs/` | Manual (хэрэглэгчийн + operational), зургууд, [TASKS.md](docs/TASKS.md) | B241940099, B210930842 |
+| `docs/` | [Manual](docs/Manual.md) (хэрэглэгчийн + operational), зургууд, [TASKS.md](docs/TASKS.md) | B241940099, B210930842 |
 | `report/` | Үндсэн тайлан (Report.pdf) | B232270108 |
 | `review/` | IV-2-5 багийн ажилд бичих шүүмж (Review.pdf) | B241940099 (бүгд) |
 
